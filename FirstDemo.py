@@ -15,4 +15,3 @@ print(test)
 print(f"value is {b}")
 
 print(type(e))
-print("test")
