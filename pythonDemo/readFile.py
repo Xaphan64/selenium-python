@@ -29,4 +29,3 @@ while line != "":
 file5 = open("test.txt")
 for line in file5.readlines():
     print(line)
-    print("test")
